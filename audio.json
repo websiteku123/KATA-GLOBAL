@@ -1,20 +1,17 @@
 [
   {
     "id": 1,
-    "judul": "Melodi Perpisahan",
-    "sub": "Suasana Sedih 01",
+    "judul": "Melodi Kesepian",
     "url": "https://files.catbox.moe/l90fcc.mp3"
   },
   {
     "id": 2,
     "judul": "Hampa Tanpamu",
-    "sub": "Suasana Sedih 02",
     "url": "https://files.catbox.moe/hg8lw6.mp3"
   },
   {
     "id": 3,
-    "judul": "Kenangan Terakhir",
-    "sub": "Suasana Sedih 03",
+    "judul": "Luka Yang Dalam",
     "url": "https://files.catbox.moe/g5gefg.mp3"
   }
 ]
