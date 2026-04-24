@@ -268,7 +268,7 @@
     "receiver": "Admin ryyn",
     "msg": "iya lah emg tua",
     "time": "22.52",
-    "read": false,
+    "read": true,
     "reply": {
       "user": "Admin ryyn",
       "msg": "tua amat kamu umur segitu"
