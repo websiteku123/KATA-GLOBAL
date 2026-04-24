@@ -222,7 +222,7 @@
     "receiver": "Admin ryyn",
     "msg": "kalau ku jawab 100 percaya ga?",
     "time": "22.51",
-    "read": false,
+    "read": true,
     "reply": {
       "user": "Admin ryyn",
       "msg": "berapaanih"
