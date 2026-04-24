@@ -64,5 +64,11 @@
     "receiver": "global",
     "text": "hai",
     "time": "11.24"
+  },
+  {
+    "sender": "ryyn",
+    "receiver": "ADMIN",
+    "msg": "iya kenapa",
+    "time": "11.26"
   }
 ]
