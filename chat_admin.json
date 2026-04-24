@@ -157,7 +157,7 @@
     "receiver": "Admin ryyn",
     "msg": "bangett",
     "time": "22.50",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
