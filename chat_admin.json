@@ -25,7 +25,7 @@
     "receiver": "Adminry20",
     "msg": "halo",
     "time": "15.15",
-    "read": false
+    "read": true
   },
   {
     "sender": "Adminry20",
