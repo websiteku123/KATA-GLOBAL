@@ -96,5 +96,12 @@
     "msg": "iya",
     "time": "14.46",
     "read": false
+  },
+  {
+    "sender": "ryyn",
+    "receiver": "ADMIN",
+    "msg": "halo sobat",
+    "time": "14.46",
+    "read": false
   }
 ]
