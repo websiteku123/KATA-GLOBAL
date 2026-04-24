@@ -76,5 +76,11 @@
     "receiver": "si rey",
     "msg": "tanya apa",
     "time": "11.27"
+  },
+  {
+    "sender": "si rey",
+    "receiver": "ADMIN",
+    "msg": "gapapa sih",
+    "time": "11.27"
   }
 ]
