@@ -125,7 +125,7 @@
     "receiver": "Admin ryyn",
     "msg": "gapapa si",
     "time": "22.50",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
