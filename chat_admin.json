@@ -546,7 +546,7 @@
     "receiver": "Admin ryyn",
     "msg": "min",
     "time": "23.34",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
