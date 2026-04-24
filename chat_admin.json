@@ -443,22 +443,6 @@
     "reply": null
   },
   {
-    "sender": "ryyn23",
-    "receiver": "Admin ryyn",
-    "msg": "p",
-    "time": "23.54",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn23",
-    "msg": "hakiw",
-    "time": "23.54",
-    "read": false,
-    "reply": null
-  },
-  {
     "sender": "ry01",
     "receiver": "Admin ryyn",
     "msg": "p",
