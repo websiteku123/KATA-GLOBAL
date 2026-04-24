@@ -98,49 +98,6 @@
     "read": true
   },
   {
-    "sender": "ryyn",
-    "receiver": "Adminry20",
-    "msg": "halo min",
-    "time": "17.06",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Adminry20",
-    "receiver": "ryyn",
-    "msg": "y",
-    "time": "17.07",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "ryyn",
-    "receiver": "Adminry20",
-    "msg": "dih apasih",
-    "time": "17.07",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Adminry20",
-    "receiver": "ryyn",
-    "msg": "😭🙄",
-    "time": "17.08",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "ryyn",
-    "receiver": "Adminry20",
-    "msg": "apaa lah",
-    "time": "17.08",
-    "read": true,
-    "reply": {
-      "user": "Adminry20",
-      "msg": "😭🙄"
-    }
-  },
-  {
     "sender": "ryyn201106",
     "receiver": "Adminry20",
     "msg": "hai",
