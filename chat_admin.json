@@ -1,48 +1,5 @@
 [
   {
-    "sender": "ryyn20",
-    "receiver": "Admin ryyn",
-    "msg": "halo min",
-    "time": "22.06",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn20",
-    "msg": "iya kenapa",
-    "time": "22.06",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "ryyn20",
-    "receiver": "Admin ryyn",
-    "msg": "gapapa",
-    "time": "22.07",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "ryyn20",
-    "receiver": "Admin ryyn",
-    "msg": "halo",
-    "time": "22.22",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn20",
-    "msg": "hai",
-    "time": "22.22",
-    "read": false,
-    "reply": {
-      "user": "ryyn20",
-      "msg": "halo"
-    }
-  },
-  {
     "sender": "Na.6",
     "receiver": "Admin ryyn",
     "msg": "Kiuu'",
@@ -486,62 +443,6 @@
     "reply": null
   },
   {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn20",
-    "msg": "hai",
-    "time": "23.29",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn20",
-    "msg": "hai",
-    "time": "23.30",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "ryyn20",
-    "receiver": "Admin ryyn",
-    "msg": "gapapa",
-    "time": "23.30",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn20",
-    "msg": "hai",
-    "time": "23.31",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn20",
-    "msg": "hai",
-    "time": "23.31",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ryyn20",
-    "msg": "hah",
-    "time": "23.32",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "ryyn20",
-    "receiver": "Admin ryyn",
-    "msg": "ya",
-    "time": "23.33",
-    "read": true,
-    "reply": null
-  },
-  {
     "sender": "ry01",
     "receiver": "Admin ryyn",
     "msg": "min",
@@ -610,22 +511,6 @@
     "receiver": "Admin ryyn",
     "msg": "gapapa sih",
     "time": "23.39",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "ryyn20",
-    "receiver": "Admin ryyn",
-    "msg": "halo",
-    "time": "23.41",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "ryyn20",
-    "receiver": "Admin ryyn",
-    "msg": "tes",
-    "time": "23.41",
     "read": true,
     "reply": null
   }
