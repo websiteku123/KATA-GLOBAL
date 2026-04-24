@@ -52,7 +52,8 @@
     "receiver": "Adminry20",
     "msg": "halo",
     "time": "11.36",
-    "status": "read"
+    "status": "read",
+    "read": true
   },
   {
     "sender": "Adminry20",
@@ -71,20 +72,22 @@
     "receiver": "Adminry20",
     "msg": "lagi apa",
     "time": "11.37",
-    "status": "read"
+    "status": "read",
+    "read": true
   },
   {
     "sender": "ryyn",
     "receiver": "Adminry20",
     "text": "hi",
     "time": "14.39",
-    "status": "unread"
+    "status": "unread",
+    "read": true
   },
   {
     "sender": "ryyn",
     "receiver": "Adminry20",
     "msg": "hi",
     "time": "14.41",
-    "read": false
+    "read": true
   }
 ]
