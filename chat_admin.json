@@ -22,5 +22,11 @@
     "receiver": "mokey",
     "msg": "gapapa kangen aja",
     "time": "11.13"
+  },
+  {
+    "sender": "mokey",
+    "receiver": "ADMIN",
+    "msg": "anjay ",
+    "time": "11.13"
   }
 ]
