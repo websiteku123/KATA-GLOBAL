@@ -4,7 +4,7 @@
     "receiver": "Adminry20",
     "msg": "min",
     "time": "21.49",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
