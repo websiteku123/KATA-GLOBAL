@@ -570,7 +570,7 @@
     "receiver": "Admin ryyn",
     "msg": "hai",
     "time": "23.37",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
