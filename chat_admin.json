@@ -82,7 +82,7 @@
     "receiver": "Admin ryyn",
     "msg": "Iyaa bisaaa'",
     "time": "22.30",
-    "read": false,
+    "read": true,
     "reply": {
       "user": "Admin ryyn",
       "msg": "bisa kann hahah"
