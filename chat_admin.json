@@ -118,7 +118,7 @@
     "receiver": "Adminry20",
     "msg": "dih apasih",
     "time": "17.07",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
