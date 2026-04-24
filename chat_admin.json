@@ -28,7 +28,7 @@
     "receiver": "Adminry20",
     "msg": "hai",
     "time": "21.47",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
