@@ -70,5 +70,11 @@
     "receiver": "ADMIN",
     "msg": "halo min assalamualaikum ",
     "time": "11.32"
+  },
+  {
+    "sender": "ADMIN",
+    "receiver": "Rey aja",
+    "msg": "waalaikumsalam ",
+    "time": "11.32"
   }
 ]
