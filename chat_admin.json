@@ -53,7 +53,7 @@
     "receiver": "Adminry20",
     "msg": "halo",
     "time": "21.34",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
