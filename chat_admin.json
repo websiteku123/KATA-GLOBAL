@@ -69,7 +69,7 @@
     "receiver": "Adminry20",
     "msg": "knp",
     "time": "21.35",
-    "read": false,
+    "read": true,
     "reply": {
       "user": "Adminry20",
       "msg": "hm"
@@ -80,7 +80,7 @@
     "receiver": "Adminry20",
     "msg": "hai",
     "time": "21.40",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
