@@ -394,7 +394,7 @@
     "receiver": "Admin ryyn",
     "msg": "15",
     "time": "23.01",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
