@@ -346,7 +346,7 @@
     "receiver": "Admin ryyn",
     "msg": "tua amat",
     "time": "22.57",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
