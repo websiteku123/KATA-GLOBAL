@@ -10,5 +10,11 @@
     "text": "tanya apa ya",
     "time": "11.08",
     "isAdmin": true
+  },
+  {
+    "sender": "ryynaja",
+    "text": "gak papa sih heheh",
+    "time": "11.08",
+    "isAdmin": false
   }
 ]
