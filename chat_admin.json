@@ -378,7 +378,7 @@
     "receiver": "Admin ryyn",
     "msg": "smp",
     "time": "23.00",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
