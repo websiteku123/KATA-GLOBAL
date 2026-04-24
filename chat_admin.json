@@ -102,7 +102,7 @@
     "receiver": "Adminry20",
     "msg": "halo min",
     "time": "17.06",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
