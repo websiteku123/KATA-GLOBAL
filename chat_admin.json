@@ -4,5 +4,11 @@
     "receiver": "ADMIN",
     "msg": "halo min mau tanya",
     "time": "11.11"
+  },
+  {
+    "sender": "mokey",
+    "receiver": "ADMIN",
+    "msg": "assalamualaikum min",
+    "time": "11.12"
   }
 ]
