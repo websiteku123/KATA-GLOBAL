@@ -52,5 +52,11 @@
     "receiver": "Adminry20",
     "msg": "halo",
     "time": "11.36"
+  },
+  {
+    "sender": "Adminry20",
+    "receiver": "ADMIN",
+    "msg": "iya kenapa",
+    "time": "11.36"
   }
 ]
