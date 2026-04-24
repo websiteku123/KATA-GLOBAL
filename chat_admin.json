@@ -1,11 +1,5 @@
 [
   {
-    "sender": "si rey",
-    "receiver": "ADMIN",
-    "msg": "halo min mau tanya",
-    "time": "11.11"
-  },
-  {
     "sender": "mokey",
     "receiver": "ADMIN",
     "msg": "assalamualaikum min",
@@ -70,17 +64,5 @@
     "receiver": "ADMIN",
     "msg": "iya kenapa",
     "time": "11.26"
-  },
-  {
-    "sender": "ADMIN",
-    "receiver": "si rey",
-    "msg": "tanya apa",
-    "time": "11.27"
-  },
-  {
-    "sender": "si rey",
-    "receiver": "ADMIN",
-    "msg": "gapapa sih",
-    "time": "11.27"
   }
 ]
