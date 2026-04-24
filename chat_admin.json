@@ -618,7 +618,7 @@
     "receiver": "Admin ryyn",
     "msg": "halo",
     "time": "23.41",
-    "read": false,
+    "read": true,
     "reply": null
   },
   {
@@ -626,7 +626,7 @@
     "receiver": "Admin ryyn",
     "msg": "tes",
     "time": "23.41",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
