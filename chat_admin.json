@@ -20,7 +20,7 @@
     "receiver": "Admin ryyn",
     "msg": "gapapa",
     "time": "22.07",
-    "read": false,
+    "read": true,
     "reply": null
   },
   {
@@ -28,7 +28,7 @@
     "receiver": "Admin ryyn",
     "msg": "halo",
     "time": "22.22",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
