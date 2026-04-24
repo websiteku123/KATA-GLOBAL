@@ -329,5 +329,16 @@
     "time": "22.54",
     "read": true,
     "reply": null
+  },
+  {
+    "sender": "Admin ryyn",
+    "receiver": "kiya26",
+    "msg": "aku baru 1 SMK sama ini lulus jadi kls 12",
+    "time": "22.54",
+    "read": false,
+    "reply": {
+      "user": "kiya26",
+      "msg": "u aja"
+    }
   }
 ]
