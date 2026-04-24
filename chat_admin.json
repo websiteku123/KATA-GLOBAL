@@ -40,5 +40,11 @@
     "receiver": "ADMIN",
     "msg": "kenapa ya",
     "time": "11.32"
+  },
+  {
+    "sender": "ADMIN",
+    "receiver": "Rey aja",
+    "msg": "gapapa lah",
+    "time": "11.34"
   }
 ]
