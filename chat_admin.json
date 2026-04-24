@@ -76,5 +76,11 @@
     "receiver": "Rey aja",
     "msg": "waalaikumsalam ",
     "time": "11.32"
+  },
+  {
+    "sender": "Rey aja",
+    "receiver": "ADMIN",
+    "msg": "kenapa ya",
+    "time": "11.32"
   }
 ]
