@@ -1,26 +1,5 @@
 [
   {
-    "sender": "ryyn",
-    "receiver": "Adminry20",
-    "msg": "woi admin kontol",
-    "time": "16.14",
-    "read": true
-  },
-  {
-    "sender": "ryyn",
-    "receiver": "Adminry20",
-    "msg": "min",
-    "time": "16.15",
-    "read": true
-  },
-  {
-    "sender": "ryyn",
-    "receiver": "Adminry20",
-    "msg": "sayang",
-    "time": "16.15",
-    "read": true
-  },
-  {
     "sender": "meymek",
     "receiver": "Adminry20",
     "msg": "assalamualaikum sayang ku🗿",
@@ -152,12 +131,5 @@
     "msg": "jug jorr",
     "time": "16.48",
     "read": true
-  },
-  {
-    "sender": "Adminry20",
-    "receiver": "ryyn",
-    "msg": "halo",
-    "time": "16.56",
-    "read": false
   }
 ]
