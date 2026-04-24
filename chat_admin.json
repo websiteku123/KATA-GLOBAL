@@ -51,7 +51,8 @@
     "sender": "ryyn",
     "receiver": "Adminry20",
     "msg": "halo",
-    "time": "11.36"
+    "time": "11.36",
+    "status": "read"
   },
   {
     "sender": "Adminry20",
@@ -69,6 +70,7 @@
     "sender": "ryyn",
     "receiver": "Adminry20",
     "msg": "lagi apa",
-    "time": "11.37"
+    "time": "11.37",
+    "status": "read"
   }
 ]
