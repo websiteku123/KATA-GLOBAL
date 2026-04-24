@@ -602,7 +602,7 @@
     "receiver": "Admin ryyn",
     "msg": "bang",
     "time": "23.38",
-    "read": false,
+    "read": true,
     "reply": null
   },
   {
@@ -610,7 +610,7 @@
     "receiver": "Admin ryyn",
     "msg": "gapapa sih",
     "time": "23.39",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
