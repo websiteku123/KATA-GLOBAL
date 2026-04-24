@@ -471,7 +471,7 @@
     "receiver": "Admin ryyn",
     "msg": "gapapa",
     "time": "23.52",
-    "read": false,
+    "read": true,
     "reply": null
   },
   {
@@ -479,7 +479,7 @@
     "receiver": "Admin ryyn",
     "msg": "halo sobat",
     "time": "23.52",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
