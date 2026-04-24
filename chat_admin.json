@@ -1,37 +1,5 @@
 [
   {
-    "sender": "ryyn201106",
-    "receiver": "Adminry20",
-    "msg": "hai",
-    "time": "17.14",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Adminry20",
-    "receiver": "ryyn201106",
-    "msg": "iya",
-    "time": "17.14",
-    "read": false,
-    "reply": null
-  },
-  {
-    "sender": "ryyn201106",
-    "receiver": "Adminry20",
-    "msg": "apasih kontol",
-    "time": "17.16",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Adminry20",
-    "receiver": "ryyn201106",
-    "msg": "goo",
-    "time": "17.17",
-    "read": false,
-    "reply": null
-  },
-  {
     "sender": "anak kecill",
     "receiver": "Adminry20",
     "msg": "haii yann",
