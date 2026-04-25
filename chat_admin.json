@@ -583,7 +583,7 @@
     "receiver": "Admin ryyn",
     "msg": "i anjenk",
     "time": "19.29",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
