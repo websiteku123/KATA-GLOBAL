@@ -443,22 +443,6 @@
     "reply": null
   },
   {
-    "sender": "ry01",
-    "receiver": "Admin ryyn",
-    "msg": "p",
-    "time": "23.56",
-    "read": true,
-    "reply": null
-  },
-  {
-    "sender": "Admin ryyn",
-    "receiver": "ry01",
-    "msg": "iyaa",
-    "time": "23.57",
-    "read": false,
-    "reply": null
-  },
-  {
     "sender": "kiya26",
     "receiver": "Admin ryyn",
     "msg": "sorry nih baru balas",
