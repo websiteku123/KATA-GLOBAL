@@ -599,7 +599,7 @@
     "receiver": "Admin ryyn",
     "msg": "ADMIN BOCAH",
     "time": "08.16",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
