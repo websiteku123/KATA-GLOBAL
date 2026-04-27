@@ -631,7 +631,7 @@
     "receiver": "Admin ryyn",
     "msg": "nokk",
     "time": "16.33",
-    "read": false,
+    "read": true,
     "reply": null
   }
 ]
