@@ -1,3 +1,11 @@
 [
-  
+  { "id":1, "name":"Nokos & Murnok VIP", "price":"Rp 5.000", "priceNum":5000, "icon":"fas fa-crown", "desc":"Layanan VIP", "badge":"VIP" },
+  { "id":2, "name":"Jasa Rename SC", "price":"Rp 5.000", "priceNum":5000, "icon":"fas fa-edit", "desc":"Ganti nama script", "badge":"" },
+  { "id":3, "name":"Suntik All Sosmed", "price":"Sesuai List", "priceNum":0, "icon":"fas fa-syringe", "desc":"Followers/Likes", "badge":"HOT" },
+  { "id":4, "name":"Reseller Sosmed", "price":"Rp 5.000", "priceNum":5000, "icon":"fas fa-users", "desc":"Bisnis Digital", "badge":"" },
+  { "id":5, "name":"Pembuatan Web Hosting", "price":"Rp 15.000", "priceNum":15000, "icon":"fas fa-globe", "desc":"Web & Hosting", "badge":"POPULER" },
+  { "id":6, "name":"Pembuatan Logo JB", "price":"Rp 2.000", "priceNum":2000, "icon":"fas fa-palette", "desc":"Desain Logo", "badge":"" },
+  { "id":7, "name":"Bahan Up Dana Bisnis", "price":"Rp 3.000", "priceNum":3000, "icon":"fas fa-chart-line", "desc":"Upgrade Bisnis", "badge":"" },
+  { "id":8, "name":"Panel Pterodactyl", "price":"Sesuai List", "priceNum":0, "icon":"fas fa-server", "desc":"Server Panel", "badge":"PRO" },
+  { "id":9, "name":"Murid Website", "price":"Rp 5.000", "priceNum":5000, "icon":"fas fa-graduation-cap", "desc":"Belajar Web", "badge":"" }
 ]
