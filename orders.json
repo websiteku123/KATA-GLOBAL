@@ -59,47 +59,7 @@
     "createdAt": "2026-04-29T14:17:21.228Z",
     "createdAtFormatted": "29 April 2026 pukul 21.17"
   },
-  {
-    "id": "RYN768759",
-    "product": "Nokos & Murnok VIP",
-    "customer": "bokep",
-    "wa": "085883881264",
-    "proof": "proof_1777473767748_161738.jpg",
-    "status": "pending"
-  },
-  {
-    "id": "RYN105693",
-    "customer": "bokepxs",
-    "wa": "085883881264",
-    "product": "Nokos & Murnok VIP",
-    "price": "Rp 5.000",
-    "note": "bagus aja",
-    "proofUrl": "https://raw.githubusercontent.com/websiteku123/KATA-GLOBAL/main/proofs/proof_1777474102075_085883881264.png",
-    "status": "pending",
-    "date": "29/4/2026, 21.48.25"
-  },
-  {
-    "id": "RYN108553",
-    "customer": "bokepxs",
-    "wa": "085883881264",
-    "product": "Nokos & Murnok VIP",
-    "price": "Rp 5.000",
-    "note": "bagus aja",
-    "proofUrl": "https://raw.githubusercontent.com/websiteku123/KATA-GLOBAL/main/proofs/proof_1777474105060_085883881264.png",
-    "status": "pending",
-    "date": "29/4/2026, 21.48.28"
-  },
-  {
-    "id": "RYN377321",
-    "product": "Nokos & Murnok VIP",
-    "customer": "bokepq",
-    "whatsapp": "085883881264",
-    "note": "yaa bagus",
-    "price": "Rp 5.000",
-    "proof": "RYN377321_proof.png",
-    "status": "pending",
-    "date": "29/4/2026, 21.52.57"
-  },
+  
   {
     "id": "RYN492448",
     "product": "Nokos & Murnok VIP",
