@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "icon": "fas fa-crown",
-    "name": "Nokos & Murnok VIP",
-    "desc": "Layanan VIP Nokos",
+    "icon": "fas fa-id-card",
+    "name": "Murid Nokos",
+    "desc": "Cocok buat kamu yang mau buka usaha NOKOS,full pengajaran sampe bisa",
     "price": "Rp 5.000",
     "priceNum": 5000
   },
