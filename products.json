@@ -78,5 +78,13 @@
     "icon": "fas fa-graduation-cap",
     "desc": "Belajar Web",
     "badge": ""
+  },
+  {
+    "id": 1777525201235,
+    "icon": "fas fa-sim-card",
+    "name": "Nokos All negara",
+    "desc": "Nomor kosong cocok buat kamu yang ingin pake bot dan buat prank pake nomor luar negeri ",
+    "price": "Sesuai kategori",
+    "priceNum": 0
   }
 ]
