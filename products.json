@@ -41,12 +41,11 @@
   },
   {
     "id": 6,
-    "name": "Pembuatan Logo JB",
-    "price": "Rp 2.000",
-    "priceNum": 2000,
     "icon": "fas fa-palette",
-    "desc": "Desain Logo",
-    "badge": ""
+    "name": "Pembuatan Logo JB",
+    "desc": "Jasa pembuatan logo/poster untuk kebutuhan jb atau kepentingan Anda",
+    "price": "Rp 2.000",
+    "priceNum": 2000
   },
   {
     "id": 7,
