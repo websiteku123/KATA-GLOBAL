@@ -9,12 +9,11 @@
   },
   {
     "id": 2,
-    "name": "Jasa Rename SC",
-    "price": "Rp 5.000",
-    "priceNum": 5000,
     "icon": "fas fa-edit",
-    "desc": "Ganti nama script",
-    "badge": ""
+    "name": "Jasa Rename SC",
+    "desc": "Ubah nama script sesuai keinginan Anda dari nama,nomor,PP",
+    "price": "Rp 5.000",
+    "priceNum": 5000
   },
   {
     "id": 3,
