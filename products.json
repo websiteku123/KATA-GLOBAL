@@ -72,12 +72,11 @@
   },
   {
     "id": 9,
-    "name": "Murid Website",
-    "price": "Rp 5.000",
-    "priceNum": 5000,
     "icon": "fas fa-graduation-cap",
-    "desc": "Belajar Web",
-    "badge": ""
+    "name": "Murid Website",
+    "desc": "Belajar buat website dari dasar sampe tingkat atas dengan full pengajaran sampe bisa ",
+    "price": "Rp 30.000",
+    "priceNum": 30000
   },
   {
     "id": 1777525201235,
