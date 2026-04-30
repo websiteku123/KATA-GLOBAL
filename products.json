@@ -17,12 +17,11 @@
   },
   {
     "id": 3,
-    "name": "Suntik All Sosmed",
-    "price": "Sesuai List",
-    "priceNum": 0,
     "icon": "fas fa-syringe",
-    "desc": "Followers/Likes",
-    "badge": "HOT"
+    "name": "Suntik All Sosmed",
+    "desc": "dengan layanan suntik Followers/Like,view,favorit, subscriber,dll",
+    "price": "Sesuai List",
+    "priceNum": 0
   },
   {
     "id": 4,
