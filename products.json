@@ -33,12 +33,11 @@
   },
   {
     "id": 5,
-    "name": "Pembuatan Web Hosting",
-    "price": "Rp 15.000",
-    "priceNum": 15000,
     "icon": "fas fa-globe",
-    "desc": "Web & Hosting",
-    "badge": "POPULER"
+    "name": "Pembuatan Web Hosting",
+    "desc": "Jasa pembuatan website, hosting, dan lainnya",
+    "price": "Rp 15.000",
+    "priceNum": 15000
   },
   {
     "id": 6,
