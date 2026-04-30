@@ -49,12 +49,11 @@
   },
   {
     "id": 7,
-    "name": "Bahan Up Dana Bisnis",
-    "price": "Rp 3.000",
-    "priceNum": 3000,
     "icon": "fas fa-chart-line",
-    "desc": "Upgrade Bisnis",
-    "badge": ""
+    "name": "Bahan Up Dana Bisnis",
+    "desc": "Bahan-bahan untuk upgrade akun Dana Bisnis.",
+    "price": "Rp 3.000",
+    "priceNum": 3000
   },
   {
     "id": 8,
