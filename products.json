@@ -57,12 +57,11 @@
   },
   {
     "id": 8,
-    "name": "Panel Pterodactyl",
-    "price": "Sesuai List",
-    "priceNum": 0,
     "icon": "fas fa-server",
-    "desc": "Server Panel",
-    "badge": "PRO"
+    "name": "Panel Pterodactyl",
+    "desc": "Panel Pterodactyl cocok untuk run script anda hingga game lain nya. Harga sesuai list",
+    "price": "Sesuai List",
+    "priceNum": 0
   },
   {
     "id": 9,
