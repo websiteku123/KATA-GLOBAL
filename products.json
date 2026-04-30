@@ -25,12 +25,11 @@
   },
   {
     "id": 4,
-    "name": "Reseller Sosmed",
-    "price": "Rp 5.000",
-    "priceNum": 5000,
     "icon": "fas fa-users",
-    "desc": "Bisnis Digital",
-    "badge": ""
+    "name": "Reseller Sosmed",
+    "desc": "Paket reseller untuk layanan media sosial\n\nDAPAT WEB NOKOS\nDAPAT SUNTIK SOSMED \nDAPAT WEB JPM\nDAPAT QRIS NO KTP\nDAPAT BAHAN UP DABIS \nDAPAT PIXELLAB MOD\nDAPAT APK PREM 10",
+    "price": "Rp 5.000",
+    "priceNum": 5000
   },
   {
     "id": 5,
