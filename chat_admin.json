@@ -609,5 +609,16 @@
     "time": "09.22",
     "read": false,
     "reply": null
+  },
+  {
+    "sender": "Admin ryyn",
+    "receiver": "kiya26",
+    "msg": "haii",
+    "time": "16.23",
+    "read": false,
+    "reply": {
+      "user": "Admin ryyn",
+      "msg": "jadi misal jika ada masukan nama lagi kamu masukin nama sebelum nya aja kalo mau pake yng itu mah jadi masukin nama nya yg dlu otomatis langsung ke cahtan nya dan chat nya ga bakal ke hapus"
+    }
   }
 ]
