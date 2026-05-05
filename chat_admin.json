@@ -637,7 +637,7 @@
     "receiver": "Admin ryyn",
     "msg": "ha??",
     "time": "20.18",
-    "read": false,
+    "read": true,
     "reply": {
       "user": "Admin ryyn",
       "msg": "hwi"
